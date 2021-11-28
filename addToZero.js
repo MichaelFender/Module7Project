@@ -1,4 +1,4 @@
-//Estimated runtime = 80 μs
+//Estimated runtime = 200 μs
 //O(N^2)
 let array = [1,2,3]
 

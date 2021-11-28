@@ -1,3 +1,6 @@
+//Estimated runtime = 175 μs
+//O(1)
+
 function data(str){
     var show = str.split(" ");
      show.sort(function (a,b){
