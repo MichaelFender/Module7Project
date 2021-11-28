@@ -1,3 +1,5 @@
+//Estimated runtime = 80 μs
+//O(N^2)
 let array = [1,2,3]
 
 let value = "False"
