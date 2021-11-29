@@ -1,4 +1,4 @@
-//Estimated runtime = 500
+//Estimated runtime = 500 μs
 //O(N)
 
 function isPangram(string){

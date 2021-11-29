@@ -1,3 +1,6 @@
+//Estimated runtime = 2 seconds
+//O(N^2)
+
 function uniqueCharacters(str)
 {
     for(let i = 0; i < str.length; i++)
