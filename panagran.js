@@ -1,3 +1,5 @@
+//Estimated runtime = 500
+//O(N)
 
 function isPangram(string){
     let strArr = string.toLowerCase();
